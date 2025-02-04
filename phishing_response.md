@@ -3,7 +3,7 @@
 
 ### File Templates:
 
-1. **[phishing_response.md]** (Phishing Email Analysis Playbook)
+1. Phishing Email Analysis Playbook
    ```markdown
    # Phishing Email Analysis Playbook
 
